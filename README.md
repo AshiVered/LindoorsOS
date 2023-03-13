@@ -1,4 +1,4 @@
-Thanks to @Men770 for the joint development 
+Thanks to [@Men770](https://github.com/Men770) for the joint development 
 # LindoorsOS
 LindoorsOS is a linux distro that based on Mint.
 The system is designed to be convenient for users coming from Windows, and also to provide full support for the Hebrew language.
